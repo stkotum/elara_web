@@ -1,0 +1,3 @@
+Wrote C:\Users\go79ran\Documents\peter\elara-web\reference\ocp_planar_frame_data.json (nDoF=2, nFrames=1, nInputs=2)
+Wrote C:\Users\go79ran\Documents\peter\elara-web\reference\ocp_rigid_frame_data.json (nDoF=3, nFrames=1, nInputs=3)
+DONE.
